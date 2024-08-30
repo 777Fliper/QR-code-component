@@ -10,4 +10,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - For the frist time I also used [netlify](https://www.netlify.com), now you can see my website here -> [QR-code-component](https://qr-code-component-777.netlify.app)
 
 # Continued development
-Right now I want to learn how to make responsive websites. That was the element I had most problems making this website.
+Right now I want to learn how to make responsive websites.
